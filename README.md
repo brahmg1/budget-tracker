@@ -5,4 +5,4 @@ In this budget tracker application users are able to add a deposit and an expens
 <img width="975" alt="Screen Shot 2022-04-10 at 11 45 28 PM" src="https://user-images.githubusercontent.com/94041281/162662141-e90ee99f-b6e1-469f-96b2-c25b1130ad2c.png">
 
 ## Application
-[Live Application] (https://infinite-reef-10985.herokuapp.com/)
+<a href="https://infinite-reef-10985.herokuapp.com/" target="_blank">Live Application</a>
